@@ -55,7 +55,7 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mortgage-calculator.git
+git clone git@github.com:reymark671/philtrust-bank-examination-code.git
 cd mortgage-calculator
 ```
 
